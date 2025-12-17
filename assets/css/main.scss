@@ -1,11 +1,14 @@
-/* Center main navigation */
-.greedy-nav .visible-links {
-  justify-content: center;
+---
+---
+
+/* your custom styles */
+.author__avatar img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 12px;
 }
 
-.author__avatar img {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 12px; /* rounded corners */
+.greedy-nav .visible-links {
+  justify-content: center;
 }
