@@ -6,12 +6,15 @@ description: Data Science Portfolio
 url: https://mathyoutw.github.io
 baseurl: ""
 
-image:
-  path: /assets/images/matt.jpg
-  alt: Matthew Wong
-  class: img-fluid rounded-circle mb-3
+author:
+  name: "Matthew Wong"
+  avatar: /assets/images/prof_pic.jpg
 
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+navigation:
+  - title: "Main"
+    nav: "main" 

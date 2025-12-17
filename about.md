@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
-I am a Data Science student at the University of California, San Diego, interested in industry roles focused on data analysis, experimentation, and decision-making.
+I'm a Data Science student at the University of California, San Diego, interested in industry roles focused on data analysis, experimentation, and decision-making.
 
 My work emphasizes understanding real-world datasets that are messy, incomplete, and noisy. I focus on asking clear questions, validating assumptions, and using exploratory analysis and metrics to uncover patterns that meaningfully explain outcomes.
 
