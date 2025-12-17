@@ -1,0 +1,6 @@
+remote_theme: alshedivat/al-folio
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
