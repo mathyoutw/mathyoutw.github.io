@@ -26,4 +26,4 @@ author_profile: true
 - Performed exploratory data analysis on gold, experience, kills, and objective control using large-scale competitive match data
 - Found that early objective control correlates with higher mid-game gold/XP advantages and increased win likelihood
 - Python, pandas, matplotlib, Jupyter
-- [League of Legends Objective Impact Analysis](https://github.com/lh-008/LeagueofLegend-StatAnalysis)
+- [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)

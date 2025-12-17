@@ -37,7 +37,7 @@ I'm interested in industry data science roles that emphasize data analysis, expe
 - Compared gold, experience, and kill metrics between teams with and without early Rift Herald control
 - Demonstrated how early-game advantages translate into higher win probability  
 - Python, pandas, matplotlib  
-- [League of Legends Objective Impact Analysis](https://github.com/lh-008/LeagueofLegend-StatAnalysis)
+- [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
 ---
 

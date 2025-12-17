@@ -1,9 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
 
-custom_css:
-  - /assets/css/custom.css
-
 description: Data Science Portfolio
 url: https://mathyoutw.github.io
 baseurl: ""
