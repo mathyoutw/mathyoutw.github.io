@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Home
+author_profile: true
 ---
-
-<img src="/assets/images/prof_pic.jpg" alt="Matthew Wong" style="border-radius:12px; max-width:100%; height:auto;">
 
 Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
 
