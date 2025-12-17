@@ -1,0 +1,11 @@
+/* Center main navigation */
+.greedy-nav .visible-links {
+  justify-content: center;
+}
+
+.author__avatar img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%; /* circle */
+}

@@ -1,7 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 
-title: Matthew Wong
+stylesheets:
+  - /assets/css/custom.css
+
 description: Data Science Portfolio
 url: https://mathyoutw.github.io
 baseurl: ""
@@ -9,6 +11,9 @@ baseurl: ""
 author:
   name: "Matthew Wong"
   avatar: /assets/images/prof_pic.jpg
+  location: "San Diego, CA"
+  github: [mathyoutw](https://github.com/mathyoutw)
+  linkedin: [mathyoutw](https://www.linkedin.com/in/mathyoutw/)
 
 plugins:
   - jekyll-include-cache

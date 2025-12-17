@@ -1,13 +1,14 @@
 ---
-layout: home
+layout: splash
 title: Home
 author_profile: true
+header:
+  image: /assets/images/claudio-testa-FrlCwXwbwkk-unsplash.jpg
+  image_description: "Close-up photo of green linear leaves"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/close-up-photo-of-green-linear-leaves-FrlCwXwbwkk)"
 ---
 
 Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
-
-- [GitHub](https://github.com/mathyoutw)  
-- [LinkedIn](https://linkedin.com/in/mathyoutw)  
 
 ---
 
@@ -25,18 +26,18 @@ I'm interested in industry data science roles that emphasize data analysis, expe
 - Python, Neo4j, NLP pipelines  
 - [Causal NLP Knowledge Graph Extraction](https://github.com/jessicabat/causal-nlp-extraction)
 
+### Mouse Circadian Rhythm Analysis
+- Analyzed minute-level activity and core body temperature data across two weeks
+- Studied sex-based differences and estrus-related temporal patterns under controlled light cycles
+- Focused on time-series analysis and visualization  
+- Python, pandas, matplotlib
+
 ### League of Legends Objective Impact Analysis
 - Analyzed large-scale professional match data to study how early objective control affects win outcomes
 - Compared gold, experience, and kill metrics between teams with and without early Rift Herald control
 - Demonstrated how early-game advantages translate into higher win probability  
 - Python, pandas, matplotlib  
 - [League of Legends Objective Impact Analysis](https://github.com/lh-008/LeagueofLegend-StatAnalysis)
-
-### Mouse Circadian Rhythm Analysis
-- Analyzed minute-level activity and core body temperature data across two weeks
-- Studied sex-based differences and estrus-related temporal patterns under controlled light cycles
-- Focused on time-series analysis and visualization  
-- Python, pandas, matplotlib
 
 ---
 
