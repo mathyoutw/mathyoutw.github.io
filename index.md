@@ -3,7 +3,9 @@ layout: home
 title: Home
 ---
 
-![Matthew Wong](/assets/images/prof_pic.jpg){: .img-fluid .rounded-circle }
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+![Matthew Wong](/assets/images/prof_pic.jpg){: .img-fluid .rounded-corners }
 
 Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
 

@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
 ## Causal NLP Knowledge Graph Extraction
 - Built a pipeline to extract knowledge and causal relationships from textual data using neural extraction (OneKE) and knowledge graphs
 - Constructed and stored extracted triples in Neo4j, exported to CSV for causal analysis
