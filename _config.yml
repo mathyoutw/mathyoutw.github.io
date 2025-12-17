@@ -14,7 +14,3 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-seo-tag
-
-navigation:
-  - title: "Main"
-    nav: "main" 

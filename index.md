@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+![Matthew Wong](/assets/images/prof_pic.jpg){: .img-fluid .rounded-circle }
+
 Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
 
 - [GitHub](https://github.com/mathyoutw)  
