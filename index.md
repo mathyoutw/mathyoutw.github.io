@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/close-up-photo-of-green-linear-leaves-FrlCwXwbwkk)"
 ---
 
-Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
+I'm a Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
 
 ---
 
@@ -17,7 +17,7 @@ I'm interested in industry data science roles that emphasize data analysis, expe
 
 ---
 
-## Selected Projects
+## Relevant Projects
 
 ### Causal NLP Knowledge Graph Extraction
 - Built a pipeline to extract structured and causal relationships from unstructured text
