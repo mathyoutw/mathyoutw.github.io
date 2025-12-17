@@ -1,4 +1,17 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 
 title: Matthew Wong
-description: Portfolio
+description: Data Science Portfolio
+url: https://mathyoutw.github.io
+baseurl: ""
+
+image:
+  path: /assets/images/matt.jpg
+  alt: Matthew Wong
+  class: img-fluid rounded-circle mb-3
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

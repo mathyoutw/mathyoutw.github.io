@@ -1,3 +1,9 @@
+---
+layout: single
+title: About
+permalink: /about/
+---
+
 # About Me
 
 I am a Data Science student at the University of California, San Diego, interested in industry roles focused on data analysis, experimentation, and decision-making.

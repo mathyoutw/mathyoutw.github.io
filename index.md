@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Matthew Wong
 
 Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
