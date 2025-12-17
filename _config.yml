@@ -12,8 +12,8 @@ author:
   name: "Matthew Wong"
   avatar: /assets/images/prof_pic.jpg
   location: "San Diego, CA"
-  github: [mathyoutw](https://github.com/mathyoutw)
-  linkedin: [mathyoutw](https://www.linkedin.com/in/mathyoutw/)
+  github: mathyoutw
+  linkedin: mathyoutw
 
 plugins:
   - jekyll-include-cache
