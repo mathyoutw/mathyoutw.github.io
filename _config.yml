@@ -1,5 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
+remote_theme: mmistakes/minimal-mistakes@gh-pages
 
 title: Matthew Wong
 description: Data Science Portfolio
@@ -13,5 +12,4 @@ image:
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-seo-tag
