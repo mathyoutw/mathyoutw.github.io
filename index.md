@@ -3,9 +3,9 @@ layout: home
 title: Home
 author_profile: true
 header:
-  image: /assets/images/claudio-testa-FrlCwXwbwkk-unsplash.jpg
-  image_description: "Close-up photo of green linear leaves"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/close-up-photo-of-green-linear-leaves-FrlCwXwbwkk)"
+  image: /assets/images/jordan-ryskamp-S92LEqke6jU-unsplash.jpg
+  image_description: "Photo of a long bridge over a body of water at night"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/a-long-bridge-over-a-body-of-water-at-night-S92LEqke6jU)"
 ---
 
 I'm a Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.

@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
 
-stylesheets:
+custom_css:
   - /assets/css/custom.css
 
 description: Data Science Portfolio
