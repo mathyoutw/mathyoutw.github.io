@@ -19,6 +19,10 @@ search: false
   display: none !important;
 }
 
+.sidebar {
+  opacity: 1 !important;
+}
+
 /* Add css changes before imports */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
