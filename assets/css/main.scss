@@ -4,30 +4,29 @@ search: false
 
 @charset "utf-8";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 /* Center the top navigation */
 .greedy-nav .visible-links {
-  justify-content: center !important;
+    justify-content: center;
 }
 
 /* Change nav underline color on hover */
 .greedy-nav .visible-links a::before {
-  background: #41dfff !important; /* Light blue color */
+    background: #41dfff; /* Light blue color */
 }
 
 /* Hide site title in navbar */
 .site-title {
-  display: none !important;
+    display: none;
 }
 
-.author_avatar img {
-   border: solid #000 !important; /* Black border around avatar */
-   max-width: 150px !important;
+.author__avatar img {
+    max-width: 150px;
+    border: 1px solid #000;
 }
 
 .sidebar {
-  opacity: 1 !important;
+    opacity: 1;
 }
-
-/* Add css changes before imports */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
