@@ -29,7 +29,7 @@ projects:
 home:
   - title: "About Me"
     url: /#about-me
-  - title: "Projects"
-    url: /#projects
+  - title: "Relevant Projects"
+    url: /#relevant-projects
   - title: "Tools & Methods"
     url: /#tools--methods
