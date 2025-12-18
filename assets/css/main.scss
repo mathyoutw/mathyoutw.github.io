@@ -9,6 +9,16 @@ search: false
   justify-content: center !important;
 }
 
+/* Change nav underline color on hover */
+.greedy-nav a:hover {
+  border-bottom-color: #41dfff; /* Light blue color */
+}
+
+/* Hide site title in navbar */
+.site-title {
+  display: none !important;
+}
+
 /* Add css changes before imports */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
