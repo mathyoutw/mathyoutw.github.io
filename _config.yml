@@ -12,6 +12,11 @@ author:
   github: mathyoutw
   linkedin: mathyoutw
 
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
