@@ -4,9 +4,9 @@ search: false
 
 @charset "utf-8";
 
-.author__avatar a img,
-.author__avatar img {
-  filter: none !important;
+/* Center the top navigation */
+.greedy-nav .visible-links {
+  justify-content: center !important;
 }
 
 /* Add css changes before imports */
