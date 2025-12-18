@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: /
 author_profile: true
 header:
   image: /assets/images/jordan-ryskamp-S92LEqke6jU-unsplash.jpg

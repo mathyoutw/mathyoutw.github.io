@@ -11,7 +11,7 @@ search: false
 
 /* Change nav underline color on hover */
 .greedy-nav a:hover {
-  border-bottom-color: #41dfff; /* Light blue color */
+  border-bottom-color: #41dfff !important; /* Light blue color */
 }
 
 /* Hide site title in navbar */
