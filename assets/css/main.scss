@@ -10,8 +10,8 @@ search: false
 }
 
 /* Change nav underline color on hover */
-.greedy-nav a:hover {
-  border-bottom-color: #41dfff !important; /* Light blue color */
+.greedy-nav .visible-links a::before {
+  background: #41dfff !important; /* Light blue color */
 }
 
 /* Hide site title in navbar */
