@@ -25,3 +25,11 @@ projects:
     url: /projects/#nasa-meteorite-landings-exploration
   - title: "Taylor Swift Music Analysis"
     url: /projects/#taylor-swift-music-analysis
+
+home:
+  - title: "About Me"
+    url: /#about-me
+  - title: "Projects"
+    url: /#projects
+  - title: "Tools & Methods"
+    url: /#tools--methods
