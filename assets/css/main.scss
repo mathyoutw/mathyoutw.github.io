@@ -14,17 +14,21 @@ search: false
 
 /* Change nav underline color on hover */
 .greedy-nav .visible-links a::before {
-    background: #41dfff; /* Light blue color */
+    background: #000; /* black */
 }
 
 /* Hide site title in navbar */
 .site-title {
-    display: none;
+    display: none !important;
 }
 
 .author__avatar img {
     max-width: 150px;
     border: 1px solid #000;
+}
+
+.author__avatar img:hover {
+  border-width: 3px;
 }
 
 .sidebar {
