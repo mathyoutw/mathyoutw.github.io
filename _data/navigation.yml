@@ -7,3 +7,21 @@ main:
     url: /projects/
   - title: "GitHub"
     url: https://github.com/mathyoutw
+
+projects:
+  - title: "Causal NLP Knowledge Extraction"
+    url: /projects/#causal-nlp-knowledge-extraction
+  - title: "Mouse Circadian Rhythm Analysis"
+    url: /projects/#mouse-circadian-rhythm-analysis
+  - title: "Spam Email Classification"
+    url: /projects/#spam-email-classification
+  - title: "League of Legends Objective Impact Analysis"
+    url: /projects/#league-of-legends-objective-impact-analysis
+  - title: "Predicting Player Salaries in the NBA"
+    url: /projects/#predicting-player-salaries-in-the-nba
+  - title: "Image Processing and Classification System"
+    url: /projects/#image-processing-and-classification-system
+  - title: "NASA Meteorite Landings Exploration"
+    url: /projects/#nasa-meteorite-landings-exploration
+  - title: "Taylor Swift Music Analysis"
+    url: /projects/#taylor-swift-music-analysis

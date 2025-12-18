@@ -9,13 +9,12 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/a-long-bridge-over-a-body-of-water-at-night-S92LEqke6jU)"
 ---
 
-
-I'm a Data Science student at the University of California, San Diego, focused on data analysis, experimentation, and turning complex datasets into actionable insights.
+Hi! I’m Matthew, a Data Science student at the University of California, San Diego, interested in data analysis, experimentation, and turning complex datasets into actionable insights.
 
 ---
 
 ## About Me
-I am passionate about industry data science roles that emphasize:
+I'm passionate about industry data science roles that emphasize:
 - Data analysis
 - Experimentation
 - Decision-making
@@ -26,32 +25,24 @@ My work centers on understanding real-world data, validating assumptions, and ef
 
 ## Relevant Projects
 
+A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the **Projects** page.
+
 ### Causal NLP Knowledge Graph Extraction
-- **Overview**: Built a pipeline to extract structured and causal relationships from unstructured text.
-- **Key Features**:
-  - Stored extracted triples in a Neo4j knowledge graph for querying and downstream analysis.
-  - Emphasized precision and constraint-based extraction to avoid unsupported relationships.
-- **Tools**: Python, Neo4j, Docker  
-- **Link**: [Causal NLP Knowledge Graph Extraction](https://github.com/jessicabat/causal-nlp-extraction)
+Analyzed unstructured text to identify and organize cause–effect relationships into a structured format for querying and analysis.  
+[View project →](https://github.com/jessicabat/causal-nlp-extraction)
 
 ### Mouse Circadian Rhythm Analysis
-- **Overview**: Analyzed minute-level activity and core body temperature data across two weeks.
-- **Key Insights**:
-  - Studied sex-based differences and estrus-related temporal patterns under controlled light cycles.
-  - Focused on time-series analysis and visualization.
-- **Tools**: Python, pandas, matplotlib, Jupyter
+Explored time-series activity and body temperature data to understand behavioral patterns across sex and biological cycles.
 
 ### League of Legends Objective Impact Analysis
-- **Overview**: Conducted large-scale analysis of professional match data to study how early objective control affects win outcomes.
-- **Key Insights**:
-  - Compared gold, experience, and kill metrics between teams with and without early Rift Herald control.
-  - Demonstrated how early-game advantages translate into higher win probability.
-- **Tools**: Python, pandas, matplotlib, scikit-learn, Jupyter  
-- **Link**: [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
+Examined professional match data to measure how early-game objectives relate to win probability and team advantage.  
+[View project →](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
 ---
 
-## Tools
-- **Programming**: Python, pandas, NumPy, scikit-learn, SQL
-- **Visualization**: matplotlib, Tableau
-- **Other**: Jupyter, Neo4j, Git, Excel, Docker
+## Tools & Methods
+- Python (pandas, NumPy), SQL  
+- Exploratory data analysis and visualization  
+- Metric design and evaluation  
+- Experimentation and causal reasoning  
+- Working with time-series and unstructured text data
