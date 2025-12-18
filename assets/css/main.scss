@@ -20,8 +20,8 @@ search: false
 }
 
 .author_avatar img {
-   border: solid #000; /* Black border around avatar */
-   max-width: 150px;
+   border: solid #000 !important; /* Black border around avatar */
+   max-width: 150px !important;
 }
 
 .sidebar {
