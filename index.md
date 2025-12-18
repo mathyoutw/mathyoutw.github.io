@@ -31,8 +31,9 @@ A selection of applied data analysis projects focused on real-world datasets and
 Analyzed unstructured text to identify and organize cause–effect relationships into a structured format for querying and analysis.  
 [View project →](https://github.com/jessicabat/causal-nlp-extraction)
 
-### Mouse Circadian Rhythm Analysis
-Explored time-series activity and body temperature data to understand behavioral patterns across sex and biological cycles.
+### Spam Email Classification
+Developed a spam detection system using various machine learning models and data transformation techniques, achieving high accuracy.  
+[View project →](/assets/files/Spam_Email_Classification.pdf)
 
 ### League of Legends Objective Impact Analysis
 Examined professional match data to measure how early-game objectives relate to win probability and team advantage.  
@@ -41,8 +42,10 @@ Examined professional match data to measure how early-game objectives relate to 
 ---
 
 ## Tools & Methods
-- Python (pandas, NumPy), SQL  
-- Exploratory data analysis and visualization  
-- Metric design and evaluation  
-- Experimentation and causal reasoning  
-- Working with time-series and unstructured text data
+- **Programming Languages**: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, statsmodels), R (randomForest, e1071, MASS, knitr), SQL  
+- **Data Analysis**: Exploratory data analysis (EDA), time-series analysis, geospatial analysis, inferential statistics, bootstrapping  
+- **Machine Learning**: Random Forest, K-Nearest Neighbors (KNN), ensemble methods, PCA, linear regression  
+- **Visualization**: Matplotlib, Seaborn, word clouds  
+- **Specialized Tools**: Neo4j, Docker  
+- **Text Analysis**: TF-IDF, causal relationship extraction, lyric search engine development  
+- **Domains**: Experimentation, causal reasoning, metric design, working with time-series and unstructured text data
