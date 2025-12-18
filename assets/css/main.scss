@@ -1,0 +1,13 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+.author__avatar img {
+  filter: none !important;
+}
+
+/* Add css changes before imports */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
