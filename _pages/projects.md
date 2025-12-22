@@ -1,11 +1,12 @@
 ---
 layout: single
 title: Projects
-# permalink: /projects/
 author_profile: true
 sidebar:
   nav: "projects"
 ---
+
+# Main Projects
 
 ## Causal NLP Knowledge Extraction
 *2025*
@@ -30,6 +31,32 @@ sidebar:
 
 ---
 
+## League of Legends Objective Impact Analysis
+*2024*
+- **Overview**: Conducted large-scale analysis of professional match data to study how early objective control affects win outcomes.
+- **Key Insights**:
+  - Compared gold, experience, and kill metrics between teams with and without early Rift Herald control.
+  - Demonstrated how early-game advantages translate into higher win probability.
+- **Outcome**: Quantified the win-rate impact of early objectives to support strategic decision-making.
+- **Tools**: Python, pandas, matplotlib, scikit-learn, Jupyter  
+- **Link**: [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
+
+---
+
+## NASA Meteorite Landings Exploration
+*2023*
+- **Overview**: Analyzed a dataset of over 45,000 meteorite landings from NASA’s Open Data Portal to examine global distribution and physical properties.
+- **Key Insights**:
+  - Performed geospatial analysis to compare the frequency and location of observed "falls" versus recorded "finds."
+  - Applied inferential statistics and bootstrapping techniques to calculate confidence intervals for meteorite mass.
+  - Conducted a temporal analysis of meteorite recordings by decade to identify historical observation biases.
+- **Outcome**: Delivered a comprehensive statistical summary of meteorite impacts, highlighting the relationship between geographic location and recording consistency.
+- **Tools**: Python, pandas, SciPy, Matplotlib
+
+# Additional Projects
+
+---
+
 ## Spam Email Classification
 *2025*
 - **Overview**: Developed a robust spam detection system by evaluating various statistical and machine learning models across multiple data transformation techniques.
@@ -40,18 +67,6 @@ sidebar:
 - **Outcome**: Achieved a peak classification accuracy with a Random Forest model on log-transformed data, resulting in a low test error rate of approximately 2.41%.
 - **Tools**: R, randomForest, e1071, MASS, knitr
 - **Link**: [Spam Email Classification](/assets/files/Spam_Email_Classification.pdf)
-
----
-
-## League of Legends Objective Impact Analysis
-*2024*
-- **Overview**: Conducted large-scale analysis of professional match data to study how early objective control affects win outcomes.
-- **Key Insights**:
-  - Compared gold, experience, and kill metrics between teams with and without early Rift Herald control.
-  - Demonstrated how early-game advantages translate into higher win probability.
-- **Outcome**: Quantified the win-rate impact of early objectives to support strategic decision-making.
-- **Tools**: Python, pandas, matplotlib, scikit-learn, Jupyter  
-- **Link**: [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
 ---
 
@@ -76,18 +91,6 @@ sidebar:
   - Developed image filters and an automated KNN classifier.
 - **Outcome**: Produced a modular system capable of both complex visual effects and automated pattern recognition for image datasets.
 - **Tools**: Python, NumPy
-
----
-
-## NASA Meteorite Landings Exploration
-*2023*
-- **Overview**: Analyzed a dataset of over 45,000 meteorite landings from NASA’s Open Data Portal to examine global distribution and physical properties.
-- **Key Insights**:
-  - Performed geospatial analysis to compare the frequency and location of observed "falls" versus recorded "finds."
-  - Applied inferential statistics and bootstrapping techniques to calculate confidence intervals for meteorite mass.
-  - Conducted a temporal analysis of meteorite recordings by decade to identify historical observation biases.
-- **Outcome**: Delivered a comprehensive statistical summary of meteorite impacts, highlighting the relationship between geographic location and recording consistency.
-- **Tools**: Python, pandas, SciPy, Matplotlib
 
 ---
 

@@ -1,6 +1,6 @@
 ## Matthew Wong
 
-I am a Data Science major with a focus on data analysis, experimentation, and deriving actionable insights from real-world datasets to support decision-making.
+Hi! I am a Data Science major with a focus on data analysis, experimentation, and deriving actionable insights from real-world datasets to support decision-making.
 
 🔗 **Portfolio website:** https://mathyoutw.github.io
 
@@ -11,6 +11,7 @@ I am a Data Science major with a focus on data analysis, experimentation, and de
 - Data visualization and effective communication  
 
 ## Tools
-- **Programming**: Python, pandas, NumPy, scikit-learn, SQL
-- **Visualization**: matplotlib, Tableau
-- **Other**: Jupyter, Neo4j, Git, Excel, Docker
+- **Programming Languages**: Python, R, SQL  
+- **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn
+- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Specialized Tools**: Neo4j, Docker

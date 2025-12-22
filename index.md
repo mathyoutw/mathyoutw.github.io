@@ -20,6 +20,7 @@ I'm passionate about industry data science roles that emphasize:
 - Data analysis
 - Experimentation
 - Decision-making
+- Model Development
 
 My work centers on understanding real-world data, validating assumptions, and effectively communicating results.
 
@@ -43,11 +44,8 @@ Examined professional match data to measure how early-game objectives relate to 
 
 ---
 
-## Tools & Methods
-- **Programming Languages**: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, statsmodels), R (randomForest, e1071, MASS, knitr), SQL  
-- **Data Analysis**: Exploratory data analysis (EDA), time-series analysis, geospatial analysis, inferential statistics, bootstrapping  
-- **Machine Learning**: Random Forest, K-Nearest Neighbors (KNN), ensemble methods, PCA, linear regression  
-- **Visualization**: Matplotlib, Seaborn, word clouds  
-- **Specialized Tools**: Neo4j, Docker  
-- **Text Analysis**: TF-IDF, causal relationship extraction, lyric search engine development  
-- **Domains**: Experimentation, causal reasoning, metric design, working with time-series and unstructured text data
+## Tools
+- **Programming Languages**: Python, R, SQL  
+- **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn
+- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Specialized Tools**: Neo4j, Docker
