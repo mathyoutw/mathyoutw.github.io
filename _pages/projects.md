@@ -2,6 +2,8 @@
 layout: single
 title: Projects
 author_profile: true
+header:
+  show_title: false
 sidebar:
   nav: "projects"
 ---
