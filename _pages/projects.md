@@ -2,11 +2,11 @@
 layout: single
 title: Projects
 author_profile: true
-header:
-  show_title: false
 sidebar:
   nav: "projects"
 ---
+
+This page highlights a selection of my data science projects, showcasing applied analysis on real-world datasets. Each project includes an overview, key insights, outcomes, and the tools used.
 
 # Main Projects
 
@@ -20,8 +20,6 @@ sidebar:
 - **Tools**: Python, Neo4j, Docker  
 - **Link**: [Causal NLP Knowledge Extraction](https://github.com/jessicabat/causal-nlp-extraction)
 
----
-
 ## Mouse Circadian Rhythm Analysis
 *2025*
 - **Overview**: Analyzed minute-level activity and core body temperature data across two weeks.
@@ -31,7 +29,6 @@ sidebar:
 - **Outcome**: Revealed consistent temporal patterns that differ by sex and biological cycle.
 - **Tools**: Python, pandas, matplotlib, Jupyter
 
----
 
 ## League of Legends Objective Impact Analysis
 *2024*
@@ -43,7 +40,6 @@ sidebar:
 - **Tools**: Python, pandas, matplotlib, scikit-learn, Jupyter  
 - **Link**: [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
----
 
 ## NASA Meteorite Landings Exploration
 *2023*
@@ -57,8 +53,6 @@ sidebar:
 
 # Additional Projects
 
----
-
 ## Spam Email Classification
 *2025*
 - **Overview**: Developed a robust spam detection system by evaluating various statistical and machine learning models across multiple data transformation techniques.
@@ -69,8 +63,6 @@ sidebar:
 - **Outcome**: Achieved a peak classification accuracy with a Random Forest model on log-transformed data, resulting in a low test error rate of approximately 2.41%.
 - **Tools**: R, randomForest, e1071, MASS, knitr
 - **Link**: [Spam Email Classification](/assets/files/Spam_Email_Classification.pdf)
-
----
 
 ## Predicting Player Salaries in the NBA
 *2024*
@@ -83,8 +75,6 @@ sidebar:
 - **Outcome**: Confirmed that performance metrics such as `Points Per Game`, `Minutes Played`, and `Win Share` are significant determinants of player compensation.
 - **Tools**: Python, pandas, Seaborn, Matplotlib, statsmodels
 
----
-
 ## Image Processing and Classification System
 *2024*
 - **Overview**: Developed a comprehensive Python-based image processing library and a K-Nearest Neighbors (KNN) classifier for automated image labeling.
@@ -93,8 +83,6 @@ sidebar:
   - Developed image filters and an automated KNN classifier.
 - **Outcome**: Produced a modular system capable of both complex visual effects and automated pattern recognition for image datasets.
 - **Tools**: Python, NumPy
-
----
 
 ## Taylor Swift Music Analysis
 *2023*
