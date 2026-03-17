@@ -10,19 +10,19 @@ This page highlights a selection of my data science projects, showcasing applied
 
 # Main Projects
 
-## Causal NLP Knowledge Extraction
-*2025*
-- **Overview**: Built a pipeline to extract structured and causal relationships from unstructured text.
-- **Key Insights**:
-  - Stored extracted triples in a Neo4j knowledge graph for querying and downstream analysis.
-  - Emphasized precision and constraint-based extraction to avoid unsupported relationships.
-- **Outcome**: Enabled structured querying of causal claims across large document collections.
-- **Tools**: Python, Neo4j, Docker  
-- **Link**: [Causal NLP Knowledge Extraction](https://github.com/jessicabat/causal-nlp-extraction)
+## Market Foundry
+*2026*  
+- **Overview**: Built a pipeline that converts unstructured financial documents (SEC filings, earnings calls, news articles, research papers) into structured causal‑relationship triples stored in a Neo4j knowledge graph.  
+- **Key Insights**:  
+  - Dynamic schema generation per document type enables precise extraction of only supported entity‑relation pairs, avoiding unsupported or hallucinated relationships.  
+  - Multi‑perspective YAML templates capture financial metrics, corporate events and technology dependencies as separate schemas, improving coverage while preserving schema constraints.  
+- **Outcome**: Enables causal queries across large collections (e.g., tracing how a market event is linked to earnings outcomes), supporting downstream analytics such as RAG and causal inference.  
+- **Tools**: Python, Neo4j, Docker, Modal (hosted FastAPI API)  
+- **Link**: [Market Foundry](https://github.com/jessicabat/market-foundry)
 
 ## Mouse Circadian Rhythm Analysis
 *2025*
-- **Overview**: Analyzed minute-level activity and core body temperature data across two weeks.
+- **Overview**: Analyzed minute-level activity and core body temperature data in mice across two weeks.
 - **Key Insights**:
   - Studied sex-based differences and estrus-related temporal patterns under controlled light cycles.
   - Focused on time-series analysis and visualization.
@@ -52,6 +52,16 @@ This page highlights a selection of my data science projects, showcasing applied
 - **Link**: [League of Legends Objective Impact Analysis](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
 # Additional Projects
+
+## Causal NLP Knowledge Extraction
+*2025*
+- **Overview**: Built a pipeline to extract structured and causal relationships from unstructured text.
+- **Key Insights**:
+  - Stored extracted triples in a Neo4j knowledge graph for querying and downstream analysis.
+  - Emphasized precision and constraint-based extraction to avoid unsupported relationships.
+- **Outcome**: Enabled structured querying of causal claims across large document collections.
+- **Tools**: Python, Neo4j, Docker  
+- **Link**: [Causal NLP Knowledge Extraction](https://github.com/jessicabat/causal-nlp-extraction)
 
 ## Predicting Player Salaries in the NBA
 *2024*

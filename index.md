@@ -11,7 +11,7 @@ sidebar:
   nav: "home"
 ---
 
-Hi! I’m Matthew, a Data Science student at the University of California, San Diego, interested in data analysis, experimentation, and turning complex datasets into actionable insights.
+Hi! I’m Matthew, a Data Science graduate of the University of California, San Diego, interested in data analysis, experimentation, and turning complex datasets into actionable insights.
 
 ---
 
@@ -30,9 +30,9 @@ My work centers on understanding real-world data, validating assumptions, and ef
 
 A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the **Projects** page.
 
-### Causal NLP Knowledge Graph Extraction
-Analyzed unstructured text to identify and organize cause–effect relationships into a structured format for querying and analysis.  
-[View project →](https://github.com/jessicabat/causal-nlp-extraction)
+### Market Foundry
+Built a pipeline that converts unstructured financial documents into structured causal‑relationship triples stored in a Neo4j knowledge graph. Enables causal queries across large collections, supporting downstream analytics such as RAG and causal inference.  
+[View project →](https://github.com/jessicabat/market-foundry)
 
 ### Spam Email Classification
 Developed a spam detection system using various machine learning models and data transformation techniques, achieving high accuracy.  
@@ -48,4 +48,4 @@ Examined professional match data to measure how early-game objectives relate to 
 - **Programming Languages**: Python, R, SQL  
 - **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn
 - **Visualization**: Matplotlib, Seaborn, Tableau
-- **Specialized Tools**: Neo4j, Docker
+- **Specialized Tools**: Neo4j, Docker, Jupyter

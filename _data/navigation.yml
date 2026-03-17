@@ -10,8 +10,8 @@ projects:
   - title: "Main Projects"
     url: /projects/#main-projects
     children:
-      - title: "Causal NLP Knowledge Extraction"
-        url: /projects/#causal-nlp-knowledge-extraction
+      - title: "Market Foundry"
+        url: /projects/#market-foundry
       - title: "Mouse Circadian Rhythm Analysis"
         url: /projects/#mouse-circadian-rhythm-analysis
       - title: "Spam Email Classification"
@@ -21,6 +21,8 @@ projects:
   - title: "Additional Projects"
     url: /projects/#additional-projects
     children:
+      - title: "Causal NLP Knowledge Extraction"
+        url: /projects/#causal-nlp-knowledge-extraction
       - title: "Predicting Player Salaries in the NBA"
         url: /projects/#predicting-player-salaries-in-the-nba
       - title: "Image Processing and Classification System"
