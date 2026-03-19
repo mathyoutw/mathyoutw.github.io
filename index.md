@@ -28,7 +28,7 @@ My work centers on understanding real-world data, validating assumptions, and ef
 
 ## Relevant Projects
 
-A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the **Projects** page.
+A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the [**Projects**](/projects/) page.
 
 ### Market Foundry
 Built a pipeline that converts unstructured financial documents into structured causal‑relationship triples stored in a Neo4j knowledge graph. Enables causal queries across large collections, supporting downstream analytics such as RAG and causal inference.  

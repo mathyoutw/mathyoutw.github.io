@@ -1,0 +1,10 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    platform: linux/amd64
+    ports:
+      - "4000:4000"
+    volumes:
+      - ..:/srv/jekyll
+    working_dir: /srv/jekyll
+    command: sh -c "gem install webrick jekyll-include-cache jekyll-remote-theme jekyll-seo-tag --no-document && /usr/jekyll/bin/jekyll serve --livereload --force-polling"
