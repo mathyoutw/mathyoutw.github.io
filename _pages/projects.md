@@ -40,7 +40,6 @@ This page highlights a selection of my data science projects, showcasing applied
 - **Tools**: R, randomForest, e1071, MASS, knitr
 - **Link**: [Spam Email Classification](/assets/files/Spam_Email_Classification.pdf)
 
-
 ## League of Legends Objective Impact Analysis
 *2024*
 - **Overview**: Conducted large-scale analysis of professional match data to study how early objective control affects win outcomes.
@@ -54,12 +53,12 @@ This page highlights a selection of my data science projects, showcasing applied
 # Additional Projects
 
 ## Causal NLP Knowledge Extraction
-*2025*
-- **Overview**: Built a pipeline to extract structured and causal relationships from unstructured text.
+*2025*  
+- **Overview**: Preliminary exploration to familiarize with knowledge graph construction and causal extraction before the Market Foundry capstone project.
 - **Key Insights**:
-  - Stored extracted triples in a Neo4j knowledge graph for querying and downstream analysis.
-  - Emphasized precision and constraint-based extraction to avoid unsupported relationships.
-- **Outcome**: Enabled structured querying of causal claims across large document collections.
+  - Prototyped triple extraction pipeline using YAML templates and Neo4j storage.
+  - Focused on constraint-based extraction to minimize hallucination.
+- **Outcome**: Validated the approach before scaling to production with Market Foundry.
 - **Tools**: Python, Neo4j, Docker  
 - **Link**: [Causal NLP Knowledge Extraction](https://github.com/jessicabat/causal-nlp-extraction)
 
