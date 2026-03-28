@@ -16,7 +16,9 @@ Hi! I’m Matthew, a Data Science graduate of the University of California, San 
 ---
 
 ## About Me
+
 I'm passionate about industry data science roles that emphasize:
+
 - Data analysis
 - Experimentation
 - Decision-making
@@ -28,23 +30,27 @@ My work centers on understanding real-world data, validating assumptions, and ef
 
 ## Relevant Projects
 
-A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the [**Projects**](/projects/) page.
+A selection of applied data analysis projects focused on real-world datasets and clear, actionable insights. Full technical details and write-ups are available on the [Projects](/projects/) page.
 
 ### Market Foundry
+
 Built a pipeline that converts unstructured financial documents into structured causal‑relationship triples stored in a Neo4j knowledge graph. Enables causal queries across large collections, supporting downstream analytics such as RAG and causal inference.  
 [View project →](https://github.com/jessicabat/market-foundry)
 
 ### Spam Email Classification
+
 Developed a spam detection system using various machine learning models and data transformation techniques, achieving high accuracy.  
 [View project →](/assets/files/Spam_Email_Classification.pdf)
 
 ### League of Legends Objective Impact Analysis
+
 Examined professional match data to measure how early-game objectives relate to win probability and team advantage.  
 [View project →](https://lh-008.github.io/LeagueofLegend-StatAnalysis/)
 
 ---
 
 ## Tools
+
 - **Programming Languages**: Python, R, SQL  
 - **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn
 - **Visualization**: Matplotlib, Seaborn, Tableau

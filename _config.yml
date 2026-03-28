@@ -6,10 +6,19 @@ url: https://mathyoutw.github.io
 baseurl: ""
 
 author:
-  name: "Matthew Wong"
+  name: Matthew Wong
   avatar: /assets/images/prof_pic.jpg
-  github: mathyoutw
-  linkedin: mathyoutw
+  bio: Data Science graduate of UC San Diego who believes good decisions start with good data.
+  links:
+    - label: "Math.You.TW@gmail.com"
+      icon: "fas fa-envelope"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&to=math.you.tw@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mathyoutw"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/mathyoutw"
 
 collections:
   pages:
